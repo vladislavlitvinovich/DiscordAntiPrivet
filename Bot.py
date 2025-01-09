@@ -49,4 +49,4 @@ async def on_voice_state_update(member, before, after):
             # Удаляем временный аудиофайл
             os.remove(audio_filename)
 
-bot.run('MTMyNjk5MTYwNjE1MDMzNjYyNg.Gp_H0Z.jAt6MUNQbOo2Hbrx-HMT1yDMqmwXdIqy2xh_wk')
+bot.run('BOT_TOKEN')
